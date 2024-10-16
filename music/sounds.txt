@@ -1,0 +1,4 @@
+celtica.ogg, celtic_pride.ogg, cisalpine_gaul.ogg: 0 A.D. Soundtracks, composed by Omri Lahav
+highlands.ogg: a3deap_HighInTheMountains.ogg by Novatlan from UMC Music Book 1
+celtic_groove.ogg: from West's Chronicle II by Mattias Westlund
+filk.ogg: by willis (UMC Music Book 11)
