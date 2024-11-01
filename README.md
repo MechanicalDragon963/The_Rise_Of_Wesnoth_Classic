@@ -1,5 +1,5 @@
 # KEY STAKEHOLDERS 
 
-DANILA PERLOVSKIY
+* [DANILA PERLOVSKIY](https://github.com/MechanicalDragon963)
 
-WESNOTH COUNCIL MEMBER
+* [WESNOTH COUNCIL MEMBER](https://github.com/Discontinuum)
